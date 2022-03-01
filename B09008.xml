@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the acts for annuities with some observations thereupon</title>
+            <author>England and Wales. Laws, statutes, etc.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09008</idno>
+            <idno type="STC">Wing E864A</idno>
+            <idno type="STC">ESTC R174984</idno>
+            <idno type="EEBO-CITATION">62369187</idno>
+            <idno type="OCLC">ocm 62369187</idno>
+            <idno type="VID">187882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187882)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2847:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the acts for annuities with some observations thereupon</title>
+                  <author>England and Wales. Laws, statutes, etc.</author>
+                  <author>Orme, Thomas, d. 1716.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Orme.  Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Annuities --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Annuities --  Taxation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187882:1"/>
+            <pb n="1" facs="tcp:187882:1" rendition="simple:additions"/>
+            <head>AN ABSTRACT OF THE ACTS for Annuities, WITH SOME OBSERVATIONS THEREUPON.</head>
+            <p>AN Additional Duty of <hi>9d. per</hi> Barrel on Ale, <hi>&amp;c.</hi> 
+               <note place="margin">Act 1. An. 4. W. Ma.</note> was granted for 99 Years, from <hi>Jan.</hi> 25, 1692. for raiſing <hi>1000000l.</hi> by the Firſt of <hi>May,</hi> 1693.</p>
+            <p>Out of which Duties <hi>100000l. per Ann.</hi> was to be ſet apart as the Recompence to the Contributors of the ſaid Mil<g ref="char:EOLhyphen"/>lion, till <hi>June</hi> 24, 1700. and afterwards <hi>70000l. per Ann.</hi> only.</p>
+            <p>This <hi>1000000l.</hi> was to be advanced by ſo many Hundred Pounds upon general Survivorſhip before the <hi>1ſt.</hi> of <hi>May,</hi> 1693. And if not compleat by that time, the remainder of the Million was to be advanced upon 14 <hi>per Cent.</hi> for a ſingle Life, before <hi>Septemb.</hi> 29, 1693.</p>
+            <p>The Surplus of the Moneys ariſing by this Act above what would anſwer the <hi>100000l.</hi> or the <hi>70000l.</hi> ſo to be ſet apart as aforeſaid, was to go to the King, but not to be diſpoſed of.</p>
+            <p>The Sum of <hi>881493l.</hi> only having been advanced on the <note place="margin">Act 2. An. 5. W. Ma.</note> former Act, the Deficiency being <hi>118506l.</hi> was to be advanced by <hi>May</hi> 1, 1694. upon 14 <hi>per Cent per Ann.</hi> for every Hundred Pounds for a ſingle Life.</p>
+            <p>
+               <pb n="2" facs="tcp:187882:2"/>
+For raiſing <hi>1500000l.</hi> upon the Duty of Tunnage, granted <note place="margin">Act 3. An. 5 &amp; 6. W. Ma.</note> for Four Years from the <hi>1ſt.</hi> of <hi>June,</hi> 1694. and upon another, <hi>9d. per</hi> Barrel on Ale, <hi>&amp;c.</hi> granted for ever (after the <hi>17th.</hi> of <hi>May,</hi> 1697.) the ſum of <hi>140000l. per Ann.</hi> out of the ſaid Duties, was to be the Fund to the Contributors, where<g ref="char:EOLhyphen"/>of <hi>100000l.</hi> or five ſevenths was to be the Fund for <hi>1200000l.</hi> for Eſtabliſhing the Bank of <hi>England,</hi> and the other <hi>40000l.</hi> or two Sevenths, ſeems to remain as the Fund to the Contri<g ref="char:EOLhyphen"/>butors of the remaining <hi>300000l.</hi> upon 14 <hi>per Cent. per Ann.</hi> for every Hundred Pound for a ſingle Life; 12 <hi>per Cent.</hi> for two Lives, and 10 <hi>per Cent.</hi> for three Lives.</p>
+            <p>There having been <hi>1300000l.</hi> advanced upon the three pre<g ref="char:EOLhyphen"/>ceding <note place="margin">
+                  <hi>Act</hi> 4. <hi>An.</hi> 6 <hi>&amp;</hi> 7. <hi>W.</hi> 3.</note> Acts, whereof <hi>981619l.</hi> upon ſingle Lives at 14 <hi>per Cent.</hi> and the reſt upon general Survivorſhip, or upon the Survivor<g ref="char:EOLhyphen"/>ſhip of two or three Lives, the Sum of <hi>618420l.</hi> was to be raiſed by this fourth Act, by converting the the ſaid ſingle Lives into a Term certain of 96 Years, from <hi>Jan.</hi> 25, 1695. by paying (before <hi>July</hi> 24, 1695.) <hi>63l.</hi> or 4½ Years Purchaſe for each <hi>14l. per Ann.</hi> ſo reſerved upon the <hi>981619l.</hi> advanced upon ſingle Lives.</p>
+            <p>And upon default of ſuch Purchaſing by the Perſons Inte<g ref="char:EOLhyphen"/>reſted in ſuch ſingle Lives; any Stranger between the ſaid <hi>July</hi> 24, 1695. and <hi>Novemb.</hi> 12. 1695. might Purchaſe the Term over at <hi>70l.</hi> or five years Purchaſe for each <hi>14l.</hi> as aforeſaid.</p>
+            <p>But the ſaid Purchaſers coming in ſlowly, other ſubſequent Acts paſſed for Enlarging the time, and Lowering the Rates of Pur<g ref="char:EOLhyphen"/>chaſing the Term over to four Years Purchaſe, whereupon by <hi>Anno,</hi> 1698. all the Term over (of the Nominees in being) was Purchaſed in; But as to the 203 Nominees Deceaſed, they ſtill remain in Obſervation.</p>
+            <div type="part">
+               <head>Obſervations on the foregoing Acts.</head>
+               <p n="1">I. Whereas by the Act 4 <hi>W. Ma. 100000l. per Ann.</hi> was to be reſerv'd for the Contributors to the Million, till <hi>June</hi> 24, 1700. and afterwards <hi>70000l. per Ann.</hi> only. It is to be obſerved, that the ſaid <hi>70000l</hi> will not anſwer the ſeveral Annuities of 14 <hi>per Cent.</hi> Payable to the Contributors upon that Act, now that the Termover is Purchaſed in, by reaſon the whole number of thoſe Annuities will ſubſiſt to the end of the Term of 99 Years, ex<g ref="char:EOLhyphen"/>cept the 203 Lives or Nominees already Deceaſed, and there<g ref="char:EOLhyphen"/>fore the ſaid Clauſe will want to be Repealed.</p>
+               <p n="2">
+                  <pb n="3" facs="tcp:187882:2"/>
+II. That whereas <hi>618420l.</hi> was to be raiſed by converting the ſingle Lives into a Term certain, or by Purchaſing the Term over at 4½ Years Purchaſe for every <hi>14l.</hi> Annuity; There will be ſome Deficiency therein by lowering the Rate to four Years Purchaſe, beſides what the Purchaſing the Term over of the 203 Nominees Deceaſed would have amounted to, which anſwering to about 353 Annuities of <hi>14l. per Annum</hi> if they had been ſold at 4½ Years Purchaſe, or <hi>63l.</hi> for each <hi>14l.</hi> Annuity, would have raiſed <hi>22239l.</hi> which Sum muſt be wanting of the <hi>618420l.</hi> intended to be raiſed by Purchaſing the Term over.</p>
+               <p n="3">III. That this Deficiency of <hi>22239l.</hi> by reaſon of the 203 Nominees Deceaſed, and what other Deficiency there may be, by lowering the Rate of Purchaſing the Trem over (which the Houſe may command an Account of) may be made up by its own Fund with a conſiderable Surplus, by directing that theſe 203 Nominees Deceaſed may be ſupplyed by conſtituting a gene<g ref="char:EOLhyphen"/>ral Nominee, and thereupon the 353 Annuities ſo fallen, may be purchaſed for the remaining Term of the 99 Years now un<g ref="char:EOLhyphen"/>expired.</p>
+               <p n="4">IV. That the Sale of theſe 353 Annuities ſo fallen, will not endanger the Security of the Annuities now ſubſiſting; for that the Fund <hi>9d.</hi> granted by the firſt Act, is not brought in by the Treaſury among the preſent Deficiencies, but may be ra<g ref="char:EOLhyphen"/>ther concluded to afford a conſiderable Surplus, ſince it rais'd in the Year ending <hi>June</hi> 24 1694. <hi>147000l.</hi> and in the Year 1697. above <hi>145000l.</hi> as may be collected by Dr. <hi>Davenants</hi> Diſcourſes on the Publick Revenues, <hi>page</hi> 250, where the three Ninepences Additional Exciſe, are there ſaid to produce together <hi>435590l. per Annum.</hi>
+               </p>
+               <p>Which if true, the three Ninepences are a ſufficient ſecurity for what is charged upon them, though Tunnage be taken away, and Salt may fall ſhort.</p>
+            </div>
+            <pb facs="tcp:187882:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
